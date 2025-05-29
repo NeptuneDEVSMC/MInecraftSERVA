@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "308e32e0-1e30-39aa-8f17-aef264dd3dfb",
+    "name": "NeptunePRO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
